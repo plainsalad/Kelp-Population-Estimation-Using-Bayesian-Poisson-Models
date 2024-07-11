@@ -5,7 +5,7 @@ This project involves fitting discrete and multi-level models to a dataset of ke
 ## Files
 
 - `Code.ipynb`
-- `kelp_data.csv` (assuming the data is in a CSV file, adjust as needed)
+- `kelp_data.csv` (the dataset used)
 
 ## Requirements
 
